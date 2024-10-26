@@ -1,0 +1,36 @@
+#linha_1, #linha_2{
+    display: flex;
+}
+
+
+#card{
+    background-color: rgb(15, 59, 141);
+    width: 300px;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    margin: 30px;
+    text-shadow: rgb(70, 70, 70), 0px 0px 10px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 10px;
+    font-size: 20px;
+}
+
+#card>h3{
+    text-align: center;
+    font-size: 25px;
+}
+
+#foto_card{
+    display: flex;
+    margin-top: 20px;
+}
+
+#assadeira{
+    margin: auto;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: solid rgb(97, 192, 255) 7px;
+    box-shadow: black 0px 0px 10px;
+}

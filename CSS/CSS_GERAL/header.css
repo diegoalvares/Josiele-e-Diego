@@ -1,0 +1,16 @@
+*{
+    font-family: "Satisfy", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h1{
+    background-color: rgb(20, 107, 165);
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    text-shadow: black 2px 2px 40px;
+    margin: -8px;
+    margin-bottom: 10px;
+}
